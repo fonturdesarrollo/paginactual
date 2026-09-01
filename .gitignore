@@ -1,0 +1,27 @@
+# === Credenciales / configuración sensible ===
+wp-config.php
+
+# === Medios que crecen mucho (respaldar aparte, no en git) ===
+wp-content/uploads/
+wp-content/gallery/
+
+# === Cachés y backups generados automáticamente ===
+wp-content/cache/
+wp-content/upgrade/
+wp-content/upgrade-temp-backup/
+wp-content/aiowps_backups/
+.quarantine/
+.tmb/
+
+# === Logs ===
+error_logWP.txt
+*.log
+
+# === Sistema operativo ===
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# === Editores / IDE ===
+.vscode/
+.idea/

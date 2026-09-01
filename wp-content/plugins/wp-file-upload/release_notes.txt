@@ -1,0 +1,12 @@
+<!--  -->
+<div class="wfu-releasenotes-container">
+	<span><strong>Version 5.1.10</strong> is a patch of the previous version for fixing a bug with email notifications.<br /><br />
+	The previous version 5.1.9 introduced some improvements on the management of the plugin's <strong>transient options</strong>.<br /><br />
+	During uploads the plugin generates transient data that are stored in the database. Since the previous version automatic clean-up operations are executed that periodically delete these transient data from the database, so that they are not accumulated.<br /><br />
+	It also introduced a new section in <strong>Maintenance Actions</strong> tab in the Dashboard area of the plugin, <strong>Transient Options</strong>, from where admins can view statistics about the plugin's transient data and manually delete them.<br /><br />
+	Please note that since version 5.0.0 the plugin name has changed to <strong>Iptanus File Upload</strong>. This is just a rebranding. The plugin continues working as before.<br /><br />
+	For more details about this version's changes please visit the <strong>Release Notes</strong> of the plugin's </span>
+	<a href="http://www.iptanus.com/wordpress-plugins/wordpress-file-upload/">support page</a><span>.</span>
+</div>
+<!--  -->
+<!--  -->
